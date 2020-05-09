@@ -1,2 +1,2 @@
 # PythonDeepDive
-My Python Deep Dive Lessons
+Simple Python day-day exercises
